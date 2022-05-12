@@ -1,5 +1,8 @@
 package com.example11.demomoviment;
 
-public class movimentacaoTipo {
-
+public enum movimentacaoTipo {
+	
+	RECEITA,
+	DESPESA
+	
 }
